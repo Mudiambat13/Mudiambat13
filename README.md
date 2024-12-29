@@ -1,92 +1,30 @@
-# 👋 Salut, je suis **Jonathan Mudiambat** !  
+<h1 align="center">Hi 👋, I'm Jonathan Mudiambat Mukadiang</h1>
+<h3 align="center">A passionate Python developer from Congo-Kinshasa</h3>
 
-Bienvenue sur mon profil GitHub ! Passionné par la **programmation**, le **développement full-stack**, l'**analyse de données**, et le **machine learning**, je suis toujours à la recherche de nouveaux projets intéressants à développer et de défis techniques à relever.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mudiambat13&label=Profile%20views&color=0e75b6&style=flat" alt="mudiambat13" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mudiambat13" alt="mudiambat13" /></a> </p>
 
-## 🚀 **À propos de moi**  
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 💻 Je suis un **développeur full-stack** avec une expertise en **Python**, **C#**, **Django**, **React**, **Angular** et plus encore.  
-- 🤖 Je m'intéresse au **machine learning** et à la construction de modèles prédictifs avec des outils modernes.  
-- 📈 J'ai également une expérience en **analyse de données** et en **automatisation avec Excel**.  
-- 🎓 Récemment diplômé d'un **Mastère Spécialisé en programmation front-end et full-stack**.  
-- 🌱 Actuellement, je me concentre sur des projets liés au **cloud computing**, au **développement d'applications web et desktop**, et à l'**intelligence artificielle**.  
+- 🔭 I’m currently working on **Jonathan Mudiambat Mukadiang**
 
----
+- Jonathan Mudiambat Mukadiang **jonathanmudiambat@outlook.com**
 
-## 🛠️ **Compétences techniques**  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/jonathan mudiambat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jonathan mudiambat" height="30" width="40" /></a>
+<a href="https://kaggle.com/jonathan mudiambat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="jonathan mudiambat" height="30" width="40" /></a>
+<a href="https://fb.com/jonathan el de salva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jonathan el de salva" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/jonathan mudiambat mukadiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="jonathan mudiambat mukadiang" height="30" width="40" /></a>
+<a href="/jonathan mudiambat mukadiang" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/rss.svg" alt="jonathan mudiambat mukadiang" height="30" width="40" /></a>
+</p>
 
-### Langages de programmation  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)  
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)  
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-### Frameworks et bibliothèques  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![Django REST Framework](https://img.shields.io/badge/-Django%20REST-ff1709?style=flat-square&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  
-![GSAP](https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mudiambat13&show_icons=true&locale=en&layout=compact" alt="mudiambat13" /></p>
 
-### Développement backend et outils desktop  
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)  
-![Flet](https://img.shields.io/badge/-Flet-009688?style=flat-square&logoColor=white)  
-![Tkinter](https://img.shields.io/badge/-Tkinter-35495E?style=flat-square&logo=python&logoColor=white)  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&locale=en" alt="mudiambat13" /></p>
 
-### Analyse de données et machine learning  
-![Excel](https://img.shields.io/badge/-Microsoft%20Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)  
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)  
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)  
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-3776AB?style=flat-square&logo=python&logoColor=white)  
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)  
-
-### Cloud et conteneurs  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)  
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)  
-
-### Outils et environnements  
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)  
-![VS Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0078D4?style=flat-square&logo=visual-studio-code&logoColor=white)  
-
----
-
-## 📂 **Projets récents**  
-
-### **[MediConnect](https://github.com/Mudiambat13/Doctor)**  
-Une plateforme permettant aux patients et médecins de réaliser des consultations médicales en ligne.  
-- 🔹 **Technologies** : Django, Tailwind CSS, GSAP, REST API  
-- 🔹 **Objectif** : Faciliter l'accès aux soins pour les personnes éloignées ou en mobilité réduite.  
-
-### **[Analyseur de données en Python](https://github.com/Mudiambat13/Data-Analyzer)**  
-Un outil qui simplifie l'analyse de jeux de données complexes et propose des visualisations.  
-- 🔹 **Technologies** : Python, Pandas, Matplotlib, Seaborn, Excel  
-- 🔹 **Objectif** : Rendre les insights des données accessibles à tous.  
-
-### **[Prédictions avec Scikit-learn](https://github.com/Mudiambat13/ML-Predictor)**  
-Un projet utilisant **Scikit-learn** pour développer des modèles prédictifs.  
-- 🔹 **Technologies** : Scikit-learn, Pandas, Matplotlib  
-- 🔹 **Objectif** : Démontrer l'utilisation de modèles de machine learning supervisés et non supervisés.  
-
----
-
-## 🌟 **Statistiques GitHub**  
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=Mudiambat13&show_icons=true&theme=radical)  
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Mudiambat13&layout=compact&theme=radical)  
-
----
-
-## 📫 **Contactez-moi**  
-
-- 🌐 LinkedIn : [Jonathan Mudiambat](https://www.linkedin.com/in/jonathan-mudiambat-m-609899130)  
-- ✉️ Email : [Votre Adresse Email](mailto:votre.jonathanmudiambat@gmail.com)  
-
----
-
-Merci de visiter mon profil ! 🚀 N'hésitez pas à explorer mes projets et à me contacter pour toute collaboration.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mudiambat13&" alt="mudiambat13" /></p>
