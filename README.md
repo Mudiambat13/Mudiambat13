@@ -1,17 +1,17 @@
 <div align="center">
 
-# 👋 Hi, I'm Jonathan Mudiambat Mukadiang
+# Hello, I'm Jonathan Mudiambat Mukadiang
 
-### 🚀 Backend & Full-Stack Developer | Python • .NET • AI • Data Engineering
+### 💻 Backend & Full-Stack Developer | Python • .NET • AI • Data Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Enterprise+Applications&v=1" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Enterprise+Applications&v=2" />
 
 <p>
   <a href="https://github.com/mudiambat13">
     <img src="https://img.shields.io/github/followers/mudiambat13?label=Followers&style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/github/stars/mudiambat13?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mudiambat13&style=for-the-badge&color=blue&v=1" />
+  <img src="https://komarev.com/ghpvc/?username=mudiambat13&style=for-the-badge&color=blue&v=2" />
 </p>
 
 📍 Democratic Republic of Congo 🇨🇩
@@ -22,18 +22,18 @@
 
 ---
 
-# 🚀 About Me
+# 👨‍💻 About Me
 
 I'm a passionate **Backend & Full-Stack Developer** focused on designing modern, scalable and secure software.
 
 I enjoy building:
 
-- 🌐 Enterprise Web Applications
-- ⚡ REST APIs
-- ☁ Cloud-ready solutions
-- 🤖 AI & Machine Learning projects
-- 📊 Data Analytics applications
-- 🏭 Industrial Software
+- 🌍 Enterprise Web Applications
+- 🔌 REST APIs
+- ☁️ Cloud-ready solutions
+- 🧠 AI & Machine Learning projects
+- 📉 Data Analytics applications
+- ⚙️ Industrial Software
 
 Currently exploring:
 
@@ -49,7 +49,7 @@ Currently exploring:
 
 ---
 
-# 🛠 Tech Stack
+# 💻 Tech Stack
 
 ## Languages
 
@@ -89,59 +89,59 @@ Currently exploring:
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=tokyonight&hide_border=true&v=2"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=tokyonight&hide_border=true&v=2"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📅 Contribution Streak
 
 <p align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight&v=1"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight&v=2"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Activity Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudiambat13&theme=tokyo-night&v=1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudiambat13&theme=tokyo-night&v=2"/>
 
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
+# 🏅 GitHub Trophies
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mudiambat13&theme=tokyonight&no-frame=true&margin-w=15&v=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mudiambat13&theme=tokyonight&no-frame=true&margin-w=15&v=2"/>
 
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📁 Featured Projects
 
 - 💼 HR Management System (.NET)
-- 📶 JM WIFI ZONE
-- 🤖 AI Industrial Decision Support
-- 📊 Data Analytics Projects
-- 🌐 Enterprise APIs
+- 📡 JM WIFI ZONE
+- 🧠 AI Industrial Decision Support
+- 📉 Data Analytics Projects
+- 🌍 Enterprise APIs
 
 ---
 
-# 📫 Contact
+# ✉️ Contact
 
 <p align="center">
 
@@ -159,7 +159,7 @@ Currently exploring:
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+### 🤝 Thanks for visiting my profile!
 
 *"Building reliable software that solves real-world problems."*
 
