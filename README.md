@@ -105,7 +105,7 @@ Currently exploring:
 
 <p align="center">
 
-https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight
+<img height="180em" src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight"/>
 
 </p>
 
