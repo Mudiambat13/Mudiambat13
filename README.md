@@ -4,14 +4,14 @@
 
 ### 🚀 Backend & Full-Stack Developer | Python • .NET • AI • Data Engineering
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Enterprise+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Enterprise+Applications&v=1" />
 
 <p>
   <a href="https://github.com/mudiambat13">
     <img src="https://img.shields.io/github/followers/mudiambat13?label=Followers&style=for-the-badge" />
   </a>
   <img src="https://img.shields.io/github/stars/mudiambat13?style=for-the-badge" />
-  <img src="https://komarev.com/ghpvc/?username=mudiambat13&style=for-the-badge&color=blue" />
+  <img src="https://komarev.com/ghpvc/?username=mudiambat13&style=for-the-badge&color=blue&v=1" />
 </p>
 
 📍 Democratic Republic of Congo 🇨🇩
@@ -93,9 +93,9 @@ Currently exploring:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=tokyonight&hide_border=true&v=1"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=tokyonight&hide_border=true&v=1"/>
 
 </p>
 
@@ -105,7 +105,7 @@ Currently exploring:
 
 <p align="center">
 
-<img height="180em" src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight"/>
+<img height="180em" src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight&v=1"/>
 
 </p>
 
@@ -115,7 +115,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudiambat13&theme=tokyo-night"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudiambat13&theme=tokyo-night&v=1"/>
 
 </p>
 
@@ -125,7 +125,7 @@ Currently exploring:
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=mudiambat13&theme=tokyonight&no-frame=true&margin-w=15"/>
+<img src="https://github-profile-trophy.vercel.app/?username=mudiambat13&theme=tokyonight&no-frame=true&margin-w=15&v=1"/>
 
 </p>
 
