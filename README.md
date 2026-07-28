@@ -1,98 +1,166 @@
 <div align="center">
 
 # 👋 Hi, I'm Jonathan Mudiambat Mukadiang
-### Backend & Full-Stack Developer | Python • .NET • Data & AI
 
-📍 Congo-Kinshasa  
-💼 Open to collaboration & opportunities  
+### 🚀 Backend & Full-Stack Developer | Python • .NET • AI • Data Engineering
 
-[![GitHub](https://img.shields.io/badge/GitHub-mudiambat13-181717?style=for-the-badge&logo=github)](https://github.com/mudiambat13)
-[![Email](https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=microsoft-outlook)](mailto:jonathanmudiambat@outlook.com)
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00C7FF&center=true&vCenter=true&width=700&lines=Backend+Developer;ASP.NET+Core+Developer;Python+Developer;Machine+Learning+Enthusiast;Building+Enterprise+Applications" />
+
+<p>
+  <a href="https://github.com/mudiambat13">
+    <img src="https://img.shields.io/github/followers/mudiambat13?label=Followers&style=for-the-badge" />
+  </a>
+  <img src="https://img.shields.io/github/stars/mudiambat13?style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=mudiambat13&style=for-the-badge&color=blue" />
+</p>
+
+📍 Democratic Republic of Congo 🇨🇩
+
+💼 Open for Freelance • Remote • Full-Time Opportunities
 
 </div>
 
 ---
 
-## 🚀 About Me
-I’m a **backend & full-stack developer** passionate about building **scalable, secure, and high-performance systems** using **Python and .NET**.  
-I enjoy working on APIs, enterprise applications, and data-driven solutions.
+# 🚀 About Me
+
+I'm a passionate **Backend & Full-Stack Developer** focused on designing modern, scalable and secure software.
+
+I enjoy building:
+
+- 🌐 Enterprise Web Applications
+- ⚡ REST APIs
+- ☁ Cloud-ready solutions
+- 🤖 AI & Machine Learning projects
+- 📊 Data Analytics applications
+- 🏭 Industrial Software
+
+Currently exploring:
+
+- ASP.NET Core
+- Clean Architecture
+- Onion Architecture
+- CQRS
+- Event-Driven Architecture
+- Docker
+- Kubernetes
+- Azure
+- Artificial Intelligence
 
 ---
 
-## 🧠 What I Do
-- 🔧 Backend development with **Django, Flask & ASP.NET**
-- 🌐 Full-stack apps with **React + REST APIs**
-- 📊 Data analysis & Machine Learning
-- 🐳 Containerization with **Docker**
-- 🏗️ Enterprise-ready applications with **.NET & C#**
+# 🛠 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cs,js,ts,html,css,sql" />
+</p>
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=dotnet,django,flask,nodejs" />
+</p>
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+</p>
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,redis" />
+</p>
+
+## DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,azure" />
+</p>
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma" />
+</p>
 
 ---
 
-## 🌱 Currently Learning
-- Advanced backend architecture & system design
-- Machine Learning & AI (Scikit-learn, TensorFlow)
-- Clean Architecture & Microservices with **.NET**
+# 📈 GitHub Statistics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 🛠 Tech Stack
+# 🔥 Contribution Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=mudiambat13&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mudiambat13&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=mudiambat13&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+- 💼 HR Management System (.NET)
+- 📶 JM WIFI ZONE
+- 🤖 AI Industrial Decision Support
+- 📊 Data Analytics Projects
+- 🌐 Enterprise APIs
+
+---
+
+# 📫 Contact
+
+<p align="center">
+
+<a href="mailto:jonathanmudiambat@outlook.com">
+<img src="https://img.shields.io/badge/Email-Outlook-blue?style=for-the-badge&logo=microsoftoutlook"/>
+</a>
+
+<a href="https://github.com/mudiambat13">
+<img src="https://img.shields.io/badge/GitHub-mudiambat13-black?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
 <div align="center">
 
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript)
+### ⭐ Thanks for visiting my profile!
 
-### Frameworks & Tools
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
-
-### AI / Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn)
+*"Building reliable software that solves real-world problems."*
 
 </div>
-
----
-
-## 📌 Featured Projects
-
-### 🏥 Hospital Management System
-**Django | DRF | React | PostgreSQL**  
-Full-stack hospital system with authentication, patient records, and reporting.
-
-### 🤖 AI Diagnosis Tool
-**Python | Scikit-learn**  
-Machine learning app for disease prediction based on symptoms.
-
-### 🏢 Enterprise Backend API
-**ASP.NET Core | C# | PostgreSQL**  
-Secure REST API following Clean Architecture principles.
-
----
-
-## 🤝 Open to Collaborate On
-- Open-source **Python & .NET** projects
-- Django / Flask / ASP.NET APIs
-- Enterprise backend systems
-- Data analysis & AI solutions
-
----
-
-## 📊 GitHub Stats
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=mudiambat13&show_icons=true&theme=react)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mudiambat13&layout=compact&theme=react)
-
-</div>
-
----
-
-## 📫 Contact
-📧 **jonathanmudiambat@outlook.com**  
-🐙 **GitHub:** mudiambat13
